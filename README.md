@@ -1,4 +1,4 @@
-### Yuriy Bogomolov
+### Hello! 👋
 
 I am a software engineer, passionate about functional programming, type systems and category theory.
 
