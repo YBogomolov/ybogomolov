@@ -1,9 +1,7 @@
-### Hello! 👋
+### Hey there! 👋
 
-I am a software architect, passionate about functional programming, type systems, and category theory.
+I'm Yuriy Bogomolov, a seasoned software architect with a passion for functional programming, type systems, and category theory. You might recognize me from my work on [#MonadicMondays](https://github.com/YBogomolov/monadic-mondays), my lectures and workshops [on YouTube](https://www.youtube.com/c/Cronuscpp), or my contributions to the [fp-ts ecosystem](https://gcanti.github.io/fp-ts/ecosystem/). And if you're looking for some additional resources, I also write articles on [my personal blog](https://ybogomolov.me) that cover everything from the basics of functional programming to advanced techniques and best practices.
 
-You may know me from my work on [#MonadicMondays](https://github.com/YBogomolov/monadic-mondays), my lectures and workshops [on YouTube](https://www.youtube.com/c/Cronuscpp) or my contribution to the [fp-ts ecosystem](https://gcanti.github.io/fp-ts/ecosystem/).
+Are you an individual developer or part of a small team looking to level up your functional programming skills in TypeScript? Look no further, because I'm here to help. As a mentor, I offer personalized guidance and support as you navigate the complex world of functional programming. Whether you're just starting out or looking to take your skills to the next level, I'll work with you to develop a customized learning plan that fits your unique needs and goals.
 
-I also write articles on [my personal blog](https://ybogomolov.me).
-
-You can reach me via email: [yuriy.bogomolov@gmail.com](mailto:yuriy.bogomolov@gmail.com?subject=Hello%20from%20GitHub), or via [Telegram](https://t.me/ybogomolov).
+So why wait? Let's start your journey towards mastering functional programming in TypeScript today. You can reach me via email at [yuriy.bogomolov@gmail.com](mailto:yuriy.bogomolov@gmail.com?subject=Hello%20from%20GitHub), or shoot me a message on [Telegram](https://t.me/ybogomolov) - I'm always happy to chat!
